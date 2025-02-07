@@ -1,4 +1,4 @@
-Лут фильтр для poe 2 END GAME
+Лут фильтр poe 2 END GAME
 The loot filter from NeverSink is used as a basis.
 #=========================================================================================
 # sajanXgame Loot Filter - for Path of Exile 2
