@@ -9,9 +9,9 @@ The loot filter from NeverSink is used as a basis.
 # AUTHOR:   sajanXgame
 #=========================================================================================
 # DISCORD: https://discord.gg/Dxj7BXz6dS
-# TWITTER: @sajanXgame
 # TWITCH:  https://www.twitch.tv/sajanXgame
 # GITHUB:  sajanXgame
+# TELEGRAM:  sajanXgame
 
 UPDATE:
 
